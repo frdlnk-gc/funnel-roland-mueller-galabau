@@ -1,0 +1,23 @@
+[
+ {
+  "name": "creative-1-karten-hook",
+  "logo": "logo-weiss-hd.png",
+  "foto": "img/foto-hd-pflaster-bagger.jpg",
+  "fokus": [
+   0.5,
+   0.3
+  ],
+  "karte": "img/karte.jpg",
+  "primary": "#11852C",
+  "headline": [
+   "FACHARBEITER",
+   "GALABAU"
+  ],
+  "headline_zusatz": "(m/w/d) · unbefristet",
+  "pill": [
+   "Ohne Lebenslauf &",
+   "Anschreiben!"
+  ],
+  "ort": "Frankfurt · Offenbach · Eschborn"
+ }
+]

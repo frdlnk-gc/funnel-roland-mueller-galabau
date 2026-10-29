@@ -1,0 +1,37 @@
+[
+ {
+  "name": "creative-2-collage",
+  "logo": "logo-weiss-hd.png",
+  "fotos": [
+   "img/foto-hd-team-palisaden.jpg",
+   "img/foto-hd-bagger-graben.jpg",
+   "img/foto-hd-team-pause.jpg"
+  ],
+  "fokus": [
+   [
+    0.5,
+    0.35
+   ],
+   [
+    0.4,
+    0.5
+   ],
+   [
+    0.5,
+    0.35
+   ]
+  ],
+  "primary": "#11852C",
+  "headline": [
+   "Facharbeiter",
+   "GaLaBau"
+  ],
+  "headline_zusatz": "(m/w/d)",
+  "ort": "Frankfurt am Main & Umgebung",
+  "cta": [
+   "Jetzt unverbindliches",
+   "Job-Angebot erhalten –",
+   "mit 1 Klick!"
+  ]
+ }
+]

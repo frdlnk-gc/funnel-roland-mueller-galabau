@@ -1,0 +1,44 @@
+[
+ {
+  "name": "creative-3-wir-suchen",
+  "logo": "logo-weiss-hd.png",
+  "foto": "img/foto-hd-bagger-graben.jpg",
+  "primary": "#11852C",
+  "panel": "top",
+  "panel_hoehe": 0.52,
+  "kicker": "WIR SUCHEN IN FRANKFURT",
+  "headline": [
+   "Facharbeiter",
+   "GaLaBau (m/w/d)"
+  ],
+  "subline": "Weihnachts- & Urlaubsgeld · Firmenwagen",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "name": "creative-4-checkliste",
+  "logo": "logo-weiss-hd.png",
+  "foto": "img/foto-hd-pflasterarbeit.jpg",
+  "primary": "#11852C",
+  "panel": "bottom",
+  "panel_hoehe": 0.6,
+  "panel_bg": "#FFFFFF",
+  "kicker": "GALABAU IN FRANKFURT AM MAIN",
+  "headline": [
+   "Facharbeiter GaLaBau (m/w/d)"
+  ],
+  "checkliste": [
+   "Weihnachts- & Urlaubsgeld",
+   "Voll ausgestatteter Firmenwagen",
+   "Keine Montage mit Übernachtung"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.3
+  ]
+ }
+]
