@@ -1,0 +1,129 @@
+{
+ "firma": "Roland Müller GaLaBau",
+ "stelle": "Facharbeiter GaLaBau (m/w/d)",
+ "ort": "Frankfurt am Main",
+ "plz": "65933",
+ "branche": "galabau",
+ "farbe_primary": "#11852C",
+ "farbe_secondary": "#1A1A1A",
+ "region_badge": "Frankfurt am Main & Umgebung",
+ "benefit_top": "Weihnachts- & Urlaubsgeld",
+ "benefits": [
+  "Weihnachtsgeld & Urlaubsgeld",
+  "Voll ausgestatteter Firmenwagen",
+  "Keine Montageeinsätze mit Übernachtung",
+  "Unbefristeter Arbeitsvertrag in Vollzeit",
+  "Fahrtkostenzuschuss & Firmenhandy",
+  "Vermögenswirksame Leistungen",
+  "Anhängerführerschein – Kosten werden übernommen",
+  "Hilfe bei der Wohnungssuche",
+  "Getränke-Flatrate",
+  "Flache Hierarchien & freundliches Arbeitsklima"
+ ],
+ "aufgaben": [
+  "Pflaster- und Wegebau: Du verlegst Pflastersteine, Platten und Einfassungen",
+  "Vegetationstechnik: Pflanzarbeiten, Rasenanlagen und fachgerechte Gehölzpflege",
+  "Du pflegst hochwertige Garten- und Grünanlagen und gestaltest Außenanlagen mit",
+  "Du arbeitest sicher mit Baumaschinen, Geräten und Werkzeugen – eigenverantwortlich nach fachlichen Vorgaben"
+ ],
+ "anforderung": "Eine abgeschlossene Ausbildung als Gärtner (m/w/d), Fachrichtung Garten- und Landschaftsbau – oder vergleichbare praktische Berufserfahrung. Dazu Erfahrung mit Maschinen und Geräten und Führerschein Klasse B, idealerweise BE.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Garten- und Landschaftsbau",
+   "icon": "🌳",
+   "qualifikationen": [
+    {
+     "label": "Ausgebildeter Gärtner GaLaBau",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Langjährige Erfahrung ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Gärtner, andere Fachrichtung",
+   "icon": "🌱",
+   "qualifikationen": [
+    {
+     "label": "Ausgebildeter Gärtner",
+     "icon": "🎓"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Bau / Handwerk",
+   "icon": "🧱",
+   "qualifikationen": [
+    {
+     "label": "Ausbildung im Bau oder Handwerk",
+     "icon": "🎓"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Ausbildung in anderem Beruf",
+     "icon": "📘"
+    },
+    {
+     "label": "Praktische Erfahrung im GaLaBau",
+     "icon": "💪"
+    }
+   ]
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "2003",
+    "label": "gegründet"
+   },
+   {
+    "zahl": "10",
+    "label": "Mitarbeiter"
+   },
+   {
+    "zahl": "20+",
+    "label": "Jahre Erfahrung"
+   }
+  ],
+  "text": "Die Roland Müller Garten- und Landschaftsbau GmbH aus Frankfurt am Main gestaltet, baut und pflegt seit über 20 Jahren hochwertige Grün- und Außenanlagen im gesamten Rhein-Main-Gebiet – von Gartengestaltung über Pflaster- und Natursteinarbeiten bis Baumpflege und Bewässerungstechnik. Dich erwarten vielseitige Projekte, ein moderner Maschinenpark und ein engagiertes Team."
+ },
+ "kunde_tab": "38 Roland Müller GaLaBau",
+ "quelle": "https://roland-mueller-galabau.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Frankfurt am Main"
+ },
+ "hero_bild": "img/hero-pflaster-bagger.jpg",
+ "bilder": [
+  "img/f1-team-palisaden.jpg",
+  "img/f2-bagger-graben.jpg",
+  "img/f3-team-pause.jpg",
+  "img/f9-pflasterarbeit.jpg",
+  "img/f4-vermessung.jpg",
+  "img/f5-maschinen.jpg",
+  "img/f7-baustelle.jpg",
+  "img/f6-rasen-ergebnis.jpg",
+  "img/f8-team-holzdeck.jpg"
+ ]
+}
